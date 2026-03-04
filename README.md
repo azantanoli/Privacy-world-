@@ -50,7 +50,7 @@ npm run build
 
 ```
 privacy-world/
-├── index.html               # Entry HTML
+├── <script type="module" src="./src/main.jsx"></script>           # Entry HTML
 ├── vite.config.js           # Vite config
 ├── netlify.toml             # Netlify SPA routing
 ├── vercel.json              # Vercel SPA routing
